@@ -3,4 +3,4 @@ The EasyGradeCalculator is a powerful academic tool designed to help students an
 For courses with weighted categories — homework, quizzes, projects, finals — the Weighted Grade Calculator handles the full distribution automatically.
 
 We have also developed all Nine Free Tools — One Place, Every Situation
-From a single quiz score to a full <a href="https://easygradecalculator.co/cumulative-gpa-calculator/">four-year GPA</a> — we've built a dedicated tool for each situation rather than cramming everything into one complicated form.
+From a single quiz score to a full <a href="https://easygradecalculator.co/cumulative-gpa-calculator/" rel="dofollow">four-year GPA</a> — we've built a dedicated tool for each situation rather than cramming everything into one complicated form.
